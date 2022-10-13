@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Alex Monsalve
 - 🎸Self-taught musician
 - 👨‍🍳Cooking fanatic
-- 🖥️Passionate about hardware 💻
+- 🖥️Passionate about hardware 💻 **gamer**
 - 👀 I'm interested in programming and UX-UI
-- 🌱 I am currently learning to be designer UX-UI
+- 🌱 I am currently learning to be a designer UX-UI
 - 📫 How to reach me monsalex23@gmail.com
 ##
 
