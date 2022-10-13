@@ -2,7 +2,7 @@
 - 🎸Self-taught musician
 - 👨‍🍳Cooking fanatic
 - 🖥️Passionate about hardware 💻
-- 👀 I'm interested in learning programming
+- 👀 I'm interested in programming adn UX-UI
 - 🌱 I am currently learning to be a full stack developer.
 - 📫 How to reach me monsalex23@gmail.com
 ##
